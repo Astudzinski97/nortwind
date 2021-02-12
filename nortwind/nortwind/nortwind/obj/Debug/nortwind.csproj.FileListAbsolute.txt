@@ -1,0 +1,47 @@
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\bin\Debug\nortwind.exe.config
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\bin\Debug\nortwind.exe
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\bin\Debug\nortwind.pdb
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.Nortwind.resources
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.Properties.Resources.resources
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.exe
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.pdb
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.Kategorie.resources
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.Pracownicy.resources
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.Zamówienia.resources
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.Klienci.resources
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.Produkty.resources
+C:\Users\Student\Desktop\nortwind\nortwind\nortwind\obj\Debug\nortwind.Zamówienie.resources
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Klienci.resources
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Nortwind.resources
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Pracownicy.resources
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Produkty.resources
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Zamówienie.resources
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Properties.Resources.resources
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Zamówienia.resources
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.exe
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.pdb
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\bin\Debug\nortwind.exe.config
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\bin\Debug\nortwind.exe
+C:\Users\Student\Desktop\final countdown\nortwind\nortwind\nortwind\bin\Debug\nortwind.pdb
+D:\C#\final countdown\nortwind\nortwind\nortwind\bin\Debug\nortwind.exe.config
+D:\C#\final countdown\nortwind\nortwind\nortwind\bin\Debug\nortwind.exe
+D:\C#\final countdown\nortwind\nortwind\nortwind\bin\Debug\nortwind.pdb
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.csprojAssemblyReference.cache
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Klienci.resources
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Nortwind.resources
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Pracownicy.resources
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Produkty.resources
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Zamówienie.resources
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Properties.Resources.resources
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Zamówienia.resources
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.csproj.GenerateResource.cache
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.csproj.CoreCompileInputs.cache
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.exe
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.pdb
+D:\C#\final countdown\nortwind\nortwind\nortwind\obj\Debug\nortwind.Folderek.Produkty.resources
